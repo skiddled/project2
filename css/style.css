@@ -4,6 +4,7 @@ body {
   font-style: normal;
   margin: .2em;
   padding: .2em;
+  background-color: #D3B60E;
 }
 
 h1, h2 {
@@ -21,7 +22,7 @@ li {
 
 a {
   text-decoration: none;
-  color: #333;
+  color: #F5F5F5;
 }
 
 a:hover {
