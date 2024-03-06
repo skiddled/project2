@@ -1,5 +1,7 @@
 body {
-  font-family: Garamond, "Times New Roman", serif;
+  font-family: "Inria Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
   margin: .2em;
   padding: .2em;
 }
