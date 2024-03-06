@@ -49,10 +49,6 @@ nav ul {
   margin-bottom: 1em;
 }
 
-.education p, .experience p {
-  font-weight: bold;
-}
-
 .education ul, .experience ul {
-  margin-left: 1.5em;
+  margin-left: 1em;
 }
