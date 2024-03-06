@@ -39,7 +39,7 @@ nav ul {
   font-family: Copperplate, fantasy;
   display: flex;
   justify-content: space-evenly;
-  text-shadow: #FC0 1px 0 10px;
+  text-shadow: #CACACA 1px 0 10px;
 }
 
 .contact-info {
