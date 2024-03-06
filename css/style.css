@@ -4,7 +4,7 @@ body {
   font-style: normal;
   margin: .2em;
   padding: .2em;
-  background-color: #D3B60E;
+  background-color: #DDDDDD;
 }
 
 h1, h2 {
@@ -22,7 +22,7 @@ li {
 
 a {
   text-decoration: none;
-  color: #F5F5F5;
+  color: #FFFFFF;
 }
 
 a:hover {
@@ -30,7 +30,7 @@ a:hover {
 }
 
 nav {
-  background-color: #E0C110;
+  background-color: #939393;
   padding: 0.5em;
 }
 
