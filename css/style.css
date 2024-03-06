@@ -34,6 +34,7 @@ nav {
 }
 
 nav ul {
+  font-family: Copperplate, fantasy;
   display: flex;
   justify-content: space-evenly;
 }
