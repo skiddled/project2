@@ -118,7 +118,8 @@ nav ul {
 
 .video {
   display: block;
-  float: left;
+  margin-left: 2em;
+  margin-right: auto;
 }
 
 #mailaddress {
