@@ -65,6 +65,33 @@ nav ul {
   margin-right: auto;
 }
 
+.manonthemoon {
+  display: block;
+  margin-left: 2em;
+  margin-right: auto;
+  width: 400px;
+  height: 400px;
+  float: right;
+}
+
+.avicii {
+  display: block;
+  margin-left: 2em;
+  margin-right: auto;
+  width: 300px;
+  height: 180px;
+  float: right;
+}
+
+.abba {
+  display: block;
+  margin-left: 2em;
+  margin-right: auto;
+  width: 450px;
+  height: 400px;
+  float: right;
+}
+
 .video {
   display: block;
   margin-left: 2em;
