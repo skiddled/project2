@@ -67,7 +67,8 @@ nav ul {
 
 .steam {
   display: block;
-  float: right;
+  margin-left: 50%;
+  margin-right: auto;
   width: 325px;
   height: 325px;
 }
@@ -117,8 +118,7 @@ nav ul {
 
 .video {
   display: block;
-  margin-left: 2em;
-  margin-right: auto;
+  float: left;
 }
 
 #mailaddress {
