@@ -65,6 +65,29 @@ nav ul {
   margin-right: auto;
 }
 
+.steam {
+  display: block;
+  float: right;
+  width: 325px;
+  height: 325px;
+}
+
+.sportsimg {
+  display: block;
+  margin-left: 2em;
+  margin-right: auto;
+  width: 410px;
+  height: 267px;
+}
+
+.cryptoimg {
+  display: block;
+  margin-left: 2em;
+  margin-right: auto;
+  width: 457px;
+  height: 239px;
+}
+
 .manonthemoon {
   display: block;
   margin-left: 2em;
