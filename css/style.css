@@ -40,6 +40,11 @@ nav ul {
   display: flex;
   justify-content: space-evenly;
   text-shadow: #CACACA 1px 0 10px;
+  position: fixed;
+}
+
+nav li {
+  padding: 1em;
 }
 
 .contact-info {
